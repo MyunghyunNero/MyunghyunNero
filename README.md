@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={mh1kim})](https://solved.ac/{mh1kim})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mh1kim)](https://solved.ac/mh1kim)
 <!--
 **MyunghyunNero/MyunghyunNero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
