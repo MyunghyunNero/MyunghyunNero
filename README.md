@@ -5,7 +5,7 @@
 
  📫 How to reach me: ...
  My blog : [![Tech Blog Badge](https://img.shields.io/badge/T-blog-blue)](https://aimk12.tistory.com/)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyunghyunNero)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MyunghyunNero/MyunghyunNero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
